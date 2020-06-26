@@ -1,12 +1,4 @@
-/*
- escreval("Digite o nome: ")
-   leia(nome)
-   escreval("Digite o número: ")
-   leia(numero)
-   
-   escreval(nome, " : ", numero)
 
-   */
 
    var nome, numero;
 
